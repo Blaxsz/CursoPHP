@@ -3,6 +3,6 @@
 	echo "Olá, Mundo";
 	//git add --all
 	//git commit -m ""
-	//git push manda para o github
-	//git pull baixa
+	//git push origin master manda para o github
+	//git pull origin master baixa
 ?>
