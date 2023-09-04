@@ -9,4 +9,3 @@ echo $nomeCompleto;
 unset($nome);
 
 echo $nomeCompleto;
-?>
