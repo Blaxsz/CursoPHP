@@ -8,4 +8,6 @@ echo $nomeCompleto;
 
 unset($nome);
 
-echo $nomeCompleto;
+if(isset($nome)) {
+    echo $nome;
+}
